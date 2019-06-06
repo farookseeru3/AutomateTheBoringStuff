@@ -1,4 +1,4 @@
-# This program calls the collatz sequence on the given positive integer, which if called repeatedly will
+# This program calls the collatz sequence on the given positive integer, which when repeatedly will
 # eventually render the input to 1.
 # author: Sooyong Lee
 
