@@ -1,2 +1,2 @@
 # AutomateTheBoringStuff
-Projects in Python
+Personal solutions to the practice projects in the textbook, Automate the Boring Stuff
