@@ -1,5 +1,6 @@
 #! python3
-# pw.py - An insecure password locker program.
+# pw.py - An insecure password locker program. Script taken from Automate the Boring Stuff textbook
+# @author: Al Sweigart
 import sys, pyperclip
 
 PASSWORDS = {'email': 'F7minlBDDuvMJuxESSKHFhTxFtjVB6',
